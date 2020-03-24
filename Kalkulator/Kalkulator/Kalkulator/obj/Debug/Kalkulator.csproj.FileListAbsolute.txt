@@ -1,0 +1,9 @@
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\mateo\OneDrive\Pulpit\Kalkulator\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
