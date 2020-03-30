@@ -1,0 +1,5 @@
+Amadeusz|Zings|33|66
+Wojciech|Kowalczyk|45|81
+Adam|Kowal|27|69
+Marian|Kopeć|39|73
+Niedbałka|Mateusz|20|70
