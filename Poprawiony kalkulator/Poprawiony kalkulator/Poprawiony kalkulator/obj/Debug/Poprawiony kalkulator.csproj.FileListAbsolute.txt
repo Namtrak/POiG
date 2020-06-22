@@ -1,0 +1,15 @@
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\bin\Debug\Poprawiony kalkulator.exe.config
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\bin\Debug\Poprawiony kalkulator.exe
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\bin\Debug\Poprawiony kalkulator.pdb
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony kalkulator.csprojAssemblyReference.cache
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\MainWindow.g.cs
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\App.g.cs
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony kalkulator_MarkupCompile.cache
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony kalkulator_MarkupCompile.lref
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\MainWindow.baml
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony kalkulator.g.resources
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony_kalkulator.Properties.Resources.resources
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony kalkulator.csproj.GenerateResource.cache
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony kalkulator.csproj.CoreCompileInputs.cache
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony kalkulator.exe
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Poprawiony kalkulator\Poprawiony kalkulator\Poprawiony kalkulator\obj\Debug\Poprawiony kalkulator.pdb
