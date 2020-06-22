@@ -1,0 +1,32 @@
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\bin\Debug\Pilkarze_MVVM.exe.config
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\bin\Debug\Pilkarze_MVVM.exe
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\bin\Debug\Pilkarze_MVVM.pdb
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.csprojAssemblyReference.cache
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\App.g.cs
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM_MarkupCompile.cache
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM_MarkupCompile.lref
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\MainWindow.baml
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.g.resources
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.Properties.Resources.resources
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.csproj.GenerateResource.cache
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.exe
+C:\Users\mateo\OneDrive\Pulpit\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.pdb
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\bin\Debug\Pilkarze_MVVM.exe.config
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\bin\Debug\Pilkarze_MVVM.exe
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\bin\Debug\Pilkarze_MVVM.pdb
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.csprojAssemblyReference.cache
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\MainWindow.g.cs
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\App.g.cs
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM_MarkupCompile.cache
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM_MarkupCompile.lref
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\MainWindow.baml
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.g.resources
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.Properties.Resources.resources
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.csproj.GenerateResource.cache
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.csproj.CoreCompileInputs.cache
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.exe
+E:\STUDIA\ROK II\SEMESTR IV\PROGRAMOWANIE OBIEKTOWE I GRAFICZNE\LABORATORIA\Pilkarze_MVVM\Pilkarze_MVVM\Pilkarze_MVVM\obj\Debug\Pilkarze_MVVM.pdb
